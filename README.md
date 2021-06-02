@@ -20,7 +20,7 @@ Tech Stack: php, mysql, bootstrap4, HTML 5 and CSS 3
   
   <li> once logged in the user is directed to the thought entry page. where it has a logout button and a text field. He can enter his thoughts in the text field which is automatically saved in the data base. </li>
   
-  <ul>
+  </ul>
     
 <h2>Application</h2>
     
