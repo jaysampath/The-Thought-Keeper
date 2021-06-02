@@ -22,17 +22,17 @@ Tech Stack: php, mysql, bootstrap4, HTML 5 and CSS 3
   
   </ul>
     
-<h2>Application</h2>
+<h2> Application </h2>
     
-    <h3>Sign up page </h3>
+ <h3> Sign up page </h3>
 
 <img src = "mysql1.png" alt ="website-image">
     
-      <h3>Login In page </h3>
+ <h3>Login In page </h3>
 
 <img src = "mysql3.png" alt ="website-image">
     
-    <h3>Logged In page </h3>   
+<h3>Logged In page </h3>   
 <img src = "mysql2.png" alt ="website-image">
 
 <h2>In action </h2>
