@@ -5,7 +5,7 @@ Tech Stack: php, mysql, bootstrap4, HTML 5 and CSS 3
 
 <h2>Features</h2>
 
-<ol>
+<ul>
   <li>All the passwords are stored safely using md5 hashing </li>
   
   <li>Login and sign up validations is done both in front-end(javascript) and back-end(php) </li>
@@ -18,14 +18,21 @@ Tech Stack: php, mysql, bootstrap4, HTML 5 and CSS 3
   
   <li>A nice error and success messages are displayed </li>
   
-  <li> once logged in the user is directed to the thought entry page. where it has a logout button and a text field. He can enter his thoughts in the text field which is automatically saved in the data base. <li>
+  <li> once logged in the user is directed to the thought entry page. where it has a logout button and a text field. He can enter his thoughts in the text field which is automatically saved in the data base. </li>
   
-  <ol>
+  <ul>
     
 <h2>Application</h2>
+    
+    <h3>Sign up page </h3>
 
 <img src = "mysql1.png" alt ="website-image">
     
+      <h3>Login In page </h3>
+
+<img src = "mysql3.png" alt ="website-image">
+    
+    <h3>Logged In page </h3>   
 <img src = "mysql2.png" alt ="website-image">
 
 <h2>In action </h2>
