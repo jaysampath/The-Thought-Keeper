@@ -18,7 +18,9 @@ Tech Stack: php, mysql, bootstrap4, HTML 5 and CSS 3
   
   <li>A nice error and success messages are displayed </li>
   
-  <li> once logged in the user is directed to the thought entry page. where it has a logout button and a text field. He can enter his thoughts in the text field which is automatically saved in the data base. </li>
+  <li> once logged in the user is directed to the thought entry page. where it has a logout button and a text field. He can enter his thoughts in the text field. </li>
+  
+  <li>The logged in also has save button which saves(appends) entered thoughts in the date base, reset button which is used to clear all his thoughts from the database and a my thoughts button which is used to alert all his thoughts</li>
   
   </ul>
     
